@@ -28,7 +28,6 @@ doWhatItSays();
 }
 
 function concertThis(value){
-
 // Then run a request with axios to the OMDB API with the movie specified
 var queryUrl = "https://rest.bandsintown.com/artists/" + value + "/events?app_id=codingbootcamp";
 
