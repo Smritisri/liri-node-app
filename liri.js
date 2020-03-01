@@ -73,7 +73,6 @@ function movieThis(value){
 
 // This line is just to help us debug against the actual URL.
 console.log(queryUrl);
-
 axios.get(queryUrl).then(
   function(response) {
     console.log(response.data);
