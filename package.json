@@ -6,11 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Smritisri/liri-node-app.git"
   },
-  
+
   "keywords": [],
   "author": "",
   "license": "ISC",
