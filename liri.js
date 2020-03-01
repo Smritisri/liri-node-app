@@ -64,7 +64,6 @@ axios.get(queryUrl).then(
         if (err) {
           return console.log('Error occurred: ' + err);
         }
-       
       console.log(data.track); 
       });
   }
