@@ -97,7 +97,6 @@ axios.get(queryUrl).then(
     }
     console.log(error.config);
   });
-  
 }
 function doWhatItSays(){
     fs.readFile("random.txt", "utf8", function(err, data) {
